@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.68704in" height="1.68703in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 160 160"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#00D2FF}
+    .fil2 {fill:#00EE75}
+    .fil5 {fill:#41F197}
+    .fil4 {fill:#BD243D}
+    .fil7 {fill:#E3B800}
+    .fil1 {fill:#F23249}
+    .fil3 {fill:#FFC900}
+    .fil6 {fill:#FFD93D}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <rect width="160" height="160"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_212023090592">
+   <g style="clip-path:url(#id0)">
+    <image x="0" y="0" width="160" height="160" xlink:href="playstore_Images\playstore_ImgID1.png"/>
+   </g>
+   <path class="fil0" d="M19 151c1,-1 0,-1 1,-1 0,0 7,-8 9,-9 3,-3 5,-5 8,-8 6,-6 12,-12 18,-18 6,-6 12,-12 17,-18l18 -17c0,-1 -1,-2 -2,-2l-28 -29c-1,0 -30,-29 -30,-30l-10 -10 -1 0c-1,2 -2,4 -2,6l0 120c0,3 0,6 0,9 0,1 0,3 0,4 1,2 2,2 2,3z"/>
+   <path class="fil1" d="M20 150c1,2 4,2 7,2 2,-1 4,-2 6,-3l69 -39c2,-1 4,-2 6,-3 1,-1 4,-3 6,-4l-1 0 -23 -23 0 0 -18 17c-5,6 -11,12 -17,18 -6,6 -12,12 -18,18 -3,3 -5,5 -8,8 -2,1 -9,9 -9,9z"/>
+   <path class="fil2" d="M30 19c0,1 29,30 30,30l28 29c1,0 2,1 2,2l0 0 23 -24c0,0 0,0 -1,0 0,-1 -1,-1 -1,-1l-65 -37c-1,-1 -9,-5 -9,-5l-1 -1c-4,-2 -8,-5 -12,-4 -2,0 -4,0 -4,1l10 10z"/>
+   <path class="fil3" d="M90 80l23 23c1,0 2,-1 3,-1l6 -4c4,-2 21,-11 23,-13 2,-2 2,-3 3,-4 0,0 0,-2 0,-3 0,1 0,0 0,1 -1,-4 -5,-6 -8,-7 -2,-2 -25,-15 -26,-16l-1 0 -23 24z"/>
+   <path class="fil4" d="M20 150c-1,0 0,0 -1,1 0,0 1,0 1,1 4,2 9,0 12,-2 7,-4 14,-7 21,-11l12 -7c0,0 0,0 1,-1l13 -7c4,-3 8,-5 12,-7l3 -2c2,-1 8,-5 12,-6l8 -5c0,0 0,0 0,-1 -2,1 -5,3 -6,4 -2,1 -4,2 -6,3l-69 39c-2,1 -4,2 -6,3 -3,0 -6,0 -7,-2z"/>
+   <path class="fil5" d="M19 9l1 0c0,-1 2,-1 4,-1 4,-1 8,2 12,4l1 1c0,0 8,4 9,5l65 37c0,0 1,0 1,1 1,0 1,0 1,0l1 0c0,0 0,0 0,0l-32 -19c-1,0 -2,-1 -3,-1 -7,-4 -15,-8 -22,-13l-4 -2c-7,-4 -14,-8 -21,-12 -3,-2 -6,-3 -10,-2 -1,0 -2,1 -3,2z"/>
+   <path class="fil6" d="M114 56c1,1 24,14 26,16 3,1 7,3 8,7 0,-1 0,0 0,-1 -2,-5 -7,-7 -12,-10l-6 -3c-4,-3 -8,-5 -11,-7 -1,0 -2,-1 -3,-1 0,0 -1,-1 -2,-1 0,0 0,0 0,0z"/>
+   <path class="fil7" d="M113 103l1 0c0,1 0,1 0,1 8,-5 17,-10 25,-14 2,-1 4,-3 6,-4 1,-1 2,-3 3,-5 -1,1 -1,2 -3,4 -2,2 -19,11 -23,13l-6 4c-1,0 -2,1 -3,1z"/>
+  </g>
+ </g>
+</svg>
