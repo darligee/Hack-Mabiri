@@ -1,0 +1,25 @@
+.top-marg{
+    margin-top: 30px;
+}
+.carousel-control{
+    background-image: unset !important;
+}
+.carousel-control:hover{
+    background-image: unset !important;
+}
+.slide-btns{
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    border-color: #ddd;
+    border-style: solid;
+    margin: 3px 5px !important;
+    border-width: 2px;
+}
+.loder-line{
+    width: 100%;
+    height: 3px;
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
